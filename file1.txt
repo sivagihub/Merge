@@ -1,2 +1,6 @@
 im in dev
+<<<<<<< HEAD
 im came to master
+=======
+in in Master
+>>>>>>> dev
